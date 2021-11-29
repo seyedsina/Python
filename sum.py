@@ -11,3 +11,4 @@ print(np.sum(a))
 
 #Created by SeyedSina
 #SJAU
+#Attribute
