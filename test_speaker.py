@@ -9,6 +9,7 @@ import numpy as np
 
 model_path = "model"
 spk_model_path = "model-spk"
+sys.argv
 
 if not os.path.exists(model_path):
     print ("Please download the model from https://alphacephei.com/vosk/models and unpack as {} in the current folder.".format(model_path))
