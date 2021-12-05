@@ -9,8 +9,6 @@ import numpy as np
 
 model_path = "model"
 spk_model_path = "model-spk"
-#creat sys.argv
-sys.argv
 
 
 if not os.path.exists(model_path):
